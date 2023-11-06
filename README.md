@@ -4,5 +4,5 @@ I am a [PhD researcher](https://www.researchgate.net/profile/Stephan-Lipp) with 
 
 - 🔭 I’m currently working on a SAST-directed greybox fuzzer
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on all things related to fuzzing
+- 👯 I’m looking to collaborate on all things related to automated software testing
 - 💬 Ask me about software engineering & testing
